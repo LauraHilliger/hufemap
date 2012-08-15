@@ -1,59 +1,49 @@
+body {
+	background-color: #fff;
+	color: #72BC72;
+	font-family: Arial Black, sans-serif;
+}
 
-/*
-controls the look and feel of the 'pixels-sold/available' box:
-*/
-.status {	
-		width:134px;
-		height:43;
-		border:0;
-		padding: 5 0 0 0;
-		background: url(s_bg.gif) no-repeat #D7D7D7;
-		font-size: 12px;
-		font-family: Arial;
-		text-align:center;
-		line-height:16px;
-	}
+h1 {
+	text-transform: uppercase;
+}
+
+.heading {
+	background: url("logo_background.png");
+}
+
+.status {
+	width: 134px;
+	height: 43;
+	border: 0;
+	padding: 5 0 0 0;
+	background: url(s_bg.gif) no-repeat #D7D7D7;
+	font-size: 12px;
+	font-family: Arial;
+	text-align: center;
+	line-height: 16px;
+}
 
 .status_body {
-
-	margin:0px; 
-	background-color: #D7D7D7;
-
+	margin: 0px;
 }
-/*
-Table cells (inside tables)
-*/
-	TD {
 
-		font-size: 12px;
+td {
+	font-size: 12px;
+}
 
-
-	}
-/*
-Heading bar
-*/
-	.heading_bar {
-		background: #D7D7D7;
-
-
-	}
-/*
-Menu bar (section at the top where the navigational links are placed)
-*/
-	.menu_bar  {
+.heading_bar {
 	
-		background: #fff  url(grgrad.gif) repeat-x;
-		color: white;
-		font-weight: bold;
-		text-align: center;
-		font-size: 13px;
+}
 
+.menu_bar {
+	padding: 4px;
+	background-color: #23803f;
+	color: white;
+	font-weight: bold;
+	font-size: 13px;
+}
 
-	}
-/*
-Links in the menu bar
-*/
-	A.menu_bar {
-		color: white;
-
-	}
+A.menu_bar {
+	color: white;
+}
