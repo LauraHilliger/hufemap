@@ -1,0 +1,3 @@
+<map name="main" id="main" onmousemove="cI()"><area onclick="return po(53);" href="http://www.hufewiesen.com"onmousemove="sB(event,'test&lt;img src=&quot;http://map.hufewiesen.com/periods.gif&quot; border=&quot;0&quot;&gt;',this, 4)" onmouseout="hI()" coords="530,0,680,150">
+<area onclick="return po(3251);" href="http://zythepsary.com"onmousemove="sB(event,'doobie doo&lt;img src=&quot;http://map.hufewiesen.com/periods.gif&quot; border=&quot;0&quot;&gt;',this, 5)" onmouseout="hI()" coords="510,320,550,360">
+</map>
